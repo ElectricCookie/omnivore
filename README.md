@@ -4,6 +4,6 @@
 
 
 <p align="center">
-	<img src="https://travis-ci.org/ElectricCookie/sure-js.svg?branch=master" />
+	<img src="https://travis-ci.org/ElectricCookie/omnivore.svg?branch=master" />
 </p>
 
